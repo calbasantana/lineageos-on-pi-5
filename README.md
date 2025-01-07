@@ -35,8 +35,8 @@ For the software, I settled on LineageOS because there is a lot of support onlin
 
 ![Image_5](https://github.com/user-attachments/assets/bc18786a-e5f2-415e-af35-53c01dde00e3)
 
-12. You will be prompted again to give permission for F-Droid to install apps. Allow it.
-13. Give permissions for Aurora Store to install apps and either sign in through Google or simply use the Aurora Store anonymously. You will now have access to all the apps you need to create your own little Android hub!
+11. You will be prompted again to give permission for F-Droid to install apps. Allow it.
+12. Give permissions for Aurora Store to install apps and either sign in through Google or simply use the Aurora Store anonymously. You will now have access to all the apps you need to create your own little Android hub!
 
 ![Image_6](https://github.com/user-attachments/assets/d072f024-4014-4f2a-8c5e-f9f37111051f)
 
